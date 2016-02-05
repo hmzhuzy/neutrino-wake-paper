@@ -1,4 +1,4 @@
-\begin{thebibliography}{18}
+\begin{thebibliography}{20}
 \expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
 \expandafter\ifx\csname bibnamefont\endcsname\relax
   \def\bibnamefont#1{#1}\fi
@@ -175,6 +175,24 @@
   \bibnamefont{et~al.}, \bibinfo{journal}{Living Reviews in Relativity}
   \textbf{\bibinfo{volume}{16}}, \bibinfo{pages}{6} (\bibinfo{year}{2013}),
   \eprint{1206.1225}.
+
+\bibitem[{\citenamefont{{LoVerde} and
+  {Zaldarriaga}}(2014)}]{2014PhRvD..89f3502L}
+\bibinfo{author}{\bibfnamefont{M.}~\bibnamefont{{LoVerde}}} \bibnamefont{and}
+  \bibinfo{author}{\bibfnamefont{M.}~\bibnamefont{{Zaldarriaga}}},
+  \bibinfo{journal}{\prd} \textbf{\bibinfo{volume}{89}}, \bibinfo{eid}{063502}
+  (\bibinfo{year}{2014}), \eprint{1310.6459}.
+
+\bibitem[{\citenamefont{{Inman} et~al.}(2015)\citenamefont{{Inman}, {Emberson},
+  {Pen}, {Farchi}, {Yu}, and {Harnois-D{\'e}raps}}}]{2015PhRvD..92b3502I}
+\bibinfo{author}{\bibfnamefont{D.}~\bibnamefont{{Inman}}},
+  \bibinfo{author}{\bibfnamefont{J.~D.} \bibnamefont{{Emberson}}},
+  \bibinfo{author}{\bibfnamefont{U.-L.} \bibnamefont{{Pen}}},
+  \bibinfo{author}{\bibfnamefont{A.}~\bibnamefont{{Farchi}}},
+  \bibinfo{author}{\bibfnamefont{H.-R.} \bibnamefont{{Yu}}}, \bibnamefont{and}
+  \bibinfo{author}{\bibfnamefont{J.}~\bibnamefont{{Harnois-D{\'e}raps}}},
+  \bibinfo{journal}{\prd} \textbf{\bibinfo{volume}{92}}, \bibinfo{eid}{023502}
+  (\bibinfo{year}{2015}), \eprint{1503.07480}.
 
 \bibitem[{\citenamefont{{Anchordoqui} et~al.}(2013)\citenamefont{{Anchordoqui},
   {Goldberg}, and {Steigman}}}]{2013PhLB..718.1162A}

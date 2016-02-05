@@ -6,6 +6,7 @@
 \usepackage{aas_macros}
 \usepackage{multirow}
 \usepackage{color}
+%\usepackage{times}
 \newcommand{\mr}{\mathrm}
 % avoids incorrect hyphenation, added Nov/08 by SSR
 \hyphenation{ALPGEN}
@@ -98,7 +99,9 @@ allow the determination of the mass hierarchy \cite{Dodelson:2014}.
 Recently, it was shown that  a bulk relative velocity field between 
 neutrinos and cold dark matter (CDM)
 exists, with coherent flows over several Mpc \cite{Zhu:2013}.
-As neutrinos flow over dark matter halos, they are gravitationally focused
+This produces a cross-correlation dipole between CDM and neutrinos on large
+scales. While on nonlinear scales,
+as neutrinos flow over dark matter halos, they are gravitationally focused
 into a {\it wake}.  This downstream excess could then be observed
 through gravitational lensing. This wake is unique to
 neutrinos as the CDM-baryon relative velocity is far too small to
@@ -157,7 +160,7 @@ Moreover, we also delineate the evolution of the \nur for the
 case of Dirac neutrinos, and consider its detection with this method.
 
 
-{\it Neutrino wakes and Lensing Signal.}---At 
+{\it Neutrino wakes and lensing signal.}---At 
 high redshift individual neutrinos move at
 large velocities, but the bulk flow of neutrinos with respect to 
 the CDM is small.  Because of their large velocities, 
@@ -294,9 +297,12 @@ The halo density field itself may have a dipole; however, its contribution
 can be removed by correlating with the relative velocity field 
 direction: $\xi(\bm r) = \langle \delta_h(\bm x)\delta_h(\bm
   x + \bm r) \sin\theta \rangle$,  as it is antisymmetric.  We have
-  verified this is the case by N-body simulations, without the neutrinos
+  verified this is the case by $N$-body simulations, without the neutrinos
 the measured lensing signal is indeed consistent with zero within 
 the numerical accuracy.
+The clustering of neutrinos around a growing dark matter halo moving with
+a bulk velocity to neutrinos can be calculated similarily as in
+\cite{2014PhRvD..89f3502L}.
 
 
 \begin{figure}[tbp]
@@ -316,13 +322,16 @@ velocity field from the large scale structure
 survey data  $\delta_g$, in Fourier space the velocity is given by
 \begin{eqnarray}
   \bm{v}_{\nu c} (\bm{k})= \frac{i\hat{\bm{k}}}{k}\frac{\theta_c(k) -
-    \theta_\nu(k)}{T_c(k)}\frac{\delta_g(\bm{k})}{b_g},
+    \theta_\nu(k)}{T_c(k)}s\frac{\delta_g(\bm{k})}{b_g},
   \label{eqn:flinvel}
 \end{eqnarray}
 where $\theta_c$ and $\theta_\nu$ are the velocity divergence 
 transfer functions, $T_c$ is
 the density transfer function and $b_g$ is a linear galaxy bias as 
 the galaxy density field is different from that of dark matter. 
+The influence of different values of the bias is marginal as we only need
+the direction of the relative velocity, which can be reconstructed accurately
+\cite{2015PhRvD..92b3502I}.
 The lensing dipole can then be calculated with respect to the direction of velocity, so that 
 the neutrino wakes add coherently. However, as the neutrino mass is unknown,
 we would have to generate the relative velocity fields for many

@@ -6,44 +6,44 @@ Reallocated singl_function (elt_size=4) to 100 items from 50.
 Database file #1: neubib.bib
 Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
-You've used 18 entries,
+You've used 20 entries,
             3411 wiz_defined-function locations,
-            1282 strings with 17881 characters,
-and the built_in function-call counts, 15704 in all, are:
-= -- 746
-> -- 769
-< -- 97
-+ -- 688
-- -- 190
-* -- 2291
-:= -- 1592
-add.period$ -- 18
-call.type$ -- 18
-change.case$ -- 72
-chr.to.int$ -- 18
-cite$ -- 18
-duplicate$ -- 1409
-empty$ -- 1224
-format.name$ -- 438
-if$ -- 2846
+            1298 strings with 18305 characters,
+and the built_in function-call counts, 17244 in all, are:
+= -- 825
+> -- 835
+< -- 106
++ -- 744
+- -- 206
+* -- 2520
+:= -- 1749
+add.period$ -- 20
+call.type$ -- 20
+change.case$ -- 80
+chr.to.int$ -- 20
+cite$ -- 20
+duplicate$ -- 1553
+empty$ -- 1348
+format.name$ -- 478
+if$ -- 3126
 int.to.chr$ -- 1
-int.to.str$ -- 19
-missing$ -- 209
-newline$ -- 69
-num.names$ -- 54
-pop$ -- 301
+int.to.str$ -- 21
+missing$ -- 231
+newline$ -- 75
+num.names$ -- 60
+pop$ -- 337
 preamble$ -- 1
-purify$ -- 72
+purify$ -- 80
 quote$ -- 0
-skip$ -- 651
+skip$ -- 704
 stack$ -- 0
-substring$ -- 267
-swap$ -- 1184
-text.length$ -- 91
+substring$ -- 289
+swap$ -- 1307
+text.length$ -- 99
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 106
+type$ -- 118
 warning$ -- 0
-while$ -- 42
+while$ -- 46
 width$ -- 0
-write$ -- 203
+write$ -- 225
