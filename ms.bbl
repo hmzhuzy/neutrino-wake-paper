@@ -1,0 +1,202 @@
+\begin{thebibliography}{18}
+\expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
+\expandafter\ifx\csname bibnamefont\endcsname\relax
+  \def\bibnamefont#1{#1}\fi
+\expandafter\ifx\csname bibfnamefont\endcsname\relax
+  \def\bibfnamefont#1{#1}\fi
+\expandafter\ifx\csname citenamefont\endcsname\relax
+  \def\citenamefont#1{#1}\fi
+\expandafter\ifx\csname url\endcsname\relax
+  \def\url#1{\texttt{#1}}\fi
+\expandafter\ifx\csname urlprefix\endcsname\relax\def\urlprefix{URL }\fi
+\providecommand{\bibinfo}[2]{#2}
+\providecommand{\eprint}[2][]{\url{#2}}
+
+\bibitem[{\citenamefont{{Olive} and {Particle Data
+  Group}}(2014)}]{2014ChPhC..38i0001O}
+\bibinfo{author}{\bibfnamefont{K.~A.} \bibnamefont{{Olive}}} \bibnamefont{and}
+  \bibinfo{author}{\bibnamefont{{Particle Data Group}}},
+  \bibinfo{journal}{Chinese Physics C} \textbf{\bibinfo{volume}{38}},
+  \bibinfo{eid}{090001} (\bibinfo{year}{2014}), \eprint{1412.1408}.
+
+\bibitem[{\citenamefont{{Cahn} et~al.}(2013)\citenamefont{{Cahn}, {Dwyer},
+  {Freedman}, {Haxton}, {Kadel}, {Kolomensky}, {Luk}, {McDonald}, {Orebi Gann},
+  and {Poon}}}]{2013arXiv1307.5487C}
+\bibinfo{author}{\bibfnamefont{R.~N.} \bibnamefont{{Cahn}}},
+  \bibinfo{author}{\bibfnamefont{D.~A.} \bibnamefont{{Dwyer}}},
+  \bibinfo{author}{\bibfnamefont{S.~J.} \bibnamefont{{Freedman}}},
+  \bibinfo{author}{\bibfnamefont{W.~C.} \bibnamefont{{Haxton}}},
+  \bibinfo{author}{\bibfnamefont{R.~W.} \bibnamefont{{Kadel}}},
+  \bibinfo{author}{\bibfnamefont{Y.~G.} \bibnamefont{{Kolomensky}}},
+  \bibinfo{author}{\bibfnamefont{K.~B.} \bibnamefont{{Luk}}},
+  \bibinfo{author}{\bibfnamefont{P.}~\bibnamefont{{McDonald}}},
+  \bibinfo{author}{\bibfnamefont{G.~D.} \bibnamefont{{Orebi Gann}}},
+  \bibnamefont{and} \bibinfo{author}{\bibfnamefont{A.~W.~P.}
+  \bibnamefont{{Poon}}}, \bibinfo{journal}{ArXiv e-prints}
+  (\bibinfo{year}{2013}), \eprint{1307.5487}.
+
+\bibitem[{\citenamefont{{Bond} et~al.}(1980)\citenamefont{{Bond}, {Efstathiou},
+  and {Silk}}}]{Bond:1980}
+\bibinfo{author}{\bibfnamefont{J.~R.} \bibnamefont{{Bond}}},
+  \bibinfo{author}{\bibfnamefont{G.}~\bibnamefont{{Efstathiou}}},
+  \bibnamefont{and} \bibinfo{author}{\bibfnamefont{J.}~\bibnamefont{{Silk}}},
+  \bibinfo{journal}{Physical Review Letters} \textbf{\bibinfo{volume}{45}},
+  \bibinfo{pages}{1980} (\bibinfo{year}{1980}).
+
+\bibitem[{\citenamefont{{Hu} et~al.}(1998)\citenamefont{{Hu}, {Eisenstein}, and
+  {Tegmark}}}]{Hu:1997}
+\bibinfo{author}{\bibfnamefont{W.}~\bibnamefont{{Hu}}},
+  \bibinfo{author}{\bibfnamefont{D.~J.} \bibnamefont{{Eisenstein}}},
+  \bibnamefont{and}
+  \bibinfo{author}{\bibfnamefont{M.}~\bibnamefont{{Tegmark}}},
+  \bibinfo{journal}{Physical Review Letters} \textbf{\bibinfo{volume}{80}},
+  \bibinfo{pages}{5255} (\bibinfo{year}{1998}), \eprint{astro-ph/9712057}.
+
+\bibitem[{\citenamefont{{Dodelson} and {Lykken}}(2014)}]{Dodelson:2014}
+\bibinfo{author}{\bibfnamefont{S.}~\bibnamefont{{Dodelson}}} \bibnamefont{and}
+  \bibinfo{author}{\bibfnamefont{J.}~\bibnamefont{{Lykken}}},
+  \bibinfo{journal}{ArXiv e-prints}  (\bibinfo{year}{2014}),
+  \eprint{1403.5173}.
+
+\bibitem[{\citenamefont{{Zhu} et~al.}(2014)\citenamefont{{Zhu}, {Pen}, {Chen},
+  {Inman}, and {Yu}}}]{Zhu:2013}
+\bibinfo{author}{\bibfnamefont{H.-M.} \bibnamefont{{Zhu}}},
+  \bibinfo{author}{\bibfnamefont{U.-L.} \bibnamefont{{Pen}}},
+  \bibinfo{author}{\bibfnamefont{X.}~\bibnamefont{{Chen}}},
+  \bibinfo{author}{\bibfnamefont{D.}~\bibnamefont{{Inman}}}, \bibnamefont{and}
+  \bibinfo{author}{\bibfnamefont{Y.}~\bibnamefont{{Yu}}},
+  \bibinfo{journal}{Physical Review Letters} \textbf{\bibinfo{volume}{113}},
+  \bibinfo{eid}{131301} (\bibinfo{year}{2014}), \eprint{1311.3422}.
+
+\bibitem[{\citenamefont{{de Gouvea} et~al.}(2013)\citenamefont{{de Gouvea},
+  {Pitts}, {Scholberg}, {Zeller}, {Alonso}, {Bernstein}, {Bishai}, {Elliott},
+  {Heeger}, {Hoffman} et~al.}}]{2013arXiv1310.4340D}
+\bibinfo{author}{\bibfnamefont{A.}~\bibnamefont{{de Gouvea}}},
+  \bibinfo{author}{\bibfnamefont{K.}~\bibnamefont{{Pitts}}},
+  \bibinfo{author}{\bibfnamefont{K.}~\bibnamefont{{Scholberg}}},
+  \bibinfo{author}{\bibfnamefont{G.~P.} \bibnamefont{{Zeller}}},
+  \bibinfo{author}{\bibfnamefont{J.}~\bibnamefont{{Alonso}}},
+  \bibinfo{author}{\bibfnamefont{A.}~\bibnamefont{{Bernstein}}},
+  \bibinfo{author}{\bibfnamefont{M.}~\bibnamefont{{Bishai}}},
+  \bibinfo{author}{\bibfnamefont{S.}~\bibnamefont{{Elliott}}},
+  \bibinfo{author}{\bibfnamefont{K.}~\bibnamefont{{Heeger}}},
+  \bibinfo{author}{\bibfnamefont{K.}~\bibnamefont{{Hoffman}}},
+  \bibnamefont{et~al.}, \bibinfo{journal}{ArXiv e-prints}
+  (\bibinfo{year}{2013}), \eprint{1310.4340}.
+
+\bibitem[{\citenamefont{{Betts} et~al.}(2013)\citenamefont{{Betts},
+  {Blanchard}, {Carnevale}, {Chang}, {Chen}, {Chidzik}, {Ciebiera},
+  {Cloessner}, {Cocco}, {Cohen} et~al.}}]{2013arXiv1307.4738B}
+\bibinfo{author}{\bibfnamefont{S.}~\bibnamefont{{Betts}}},
+  \bibinfo{author}{\bibfnamefont{W.~R.} \bibnamefont{{Blanchard}}},
+  \bibinfo{author}{\bibfnamefont{R.~H.} \bibnamefont{{Carnevale}}},
+  \bibinfo{author}{\bibfnamefont{C.}~\bibnamefont{{Chang}}},
+  \bibinfo{author}{\bibfnamefont{C.}~\bibnamefont{{Chen}}},
+  \bibinfo{author}{\bibfnamefont{S.}~\bibnamefont{{Chidzik}}},
+  \bibinfo{author}{\bibfnamefont{L.}~\bibnamefont{{Ciebiera}}},
+  \bibinfo{author}{\bibfnamefont{P.}~\bibnamefont{{Cloessner}}},
+  \bibinfo{author}{\bibfnamefont{A.}~\bibnamefont{{Cocco}}},
+  \bibinfo{author}{\bibfnamefont{A.}~\bibnamefont{{Cohen}}},
+  \bibnamefont{et~al.}, \bibinfo{journal}{ArXiv e-prints}
+  (\bibinfo{year}{2013}), \eprint{1307.4738}.
+
+\bibitem[{\citenamefont{{Long} et~al.}(2014)\citenamefont{{Long}, {Lunardini},
+  and {Sabancilar}}}]{2014JCAP...08..038L}
+\bibinfo{author}{\bibfnamefont{A.~J.} \bibnamefont{{Long}}},
+  \bibinfo{author}{\bibfnamefont{C.}~\bibnamefont{{Lunardini}}},
+  \bibnamefont{and}
+  \bibinfo{author}{\bibfnamefont{E.}~\bibnamefont{{Sabancilar}}},
+  \bibinfo{journal}{\jcap} \textbf{\bibinfo{volume}{8}}, \bibinfo{eid}{038}
+  (\bibinfo{year}{2014}), \eprint{1405.7654}.
+
+\bibitem[{\citenamefont{{Langacker}}(2009)}]{2009RvMP...81.1199L}
+\bibinfo{author}{\bibfnamefont{P.}~\bibnamefont{{Langacker}}},
+  \bibinfo{journal}{Reviews of Modern Physics} \textbf{\bibinfo{volume}{81}},
+  \bibinfo{pages}{1199} (\bibinfo{year}{2009}), \eprint{0801.1345}.
+
+\bibitem[{\citenamefont{{Xing}}(2008)}]{2008IJMPA..23.4255X}
+\bibinfo{author}{\bibfnamefont{Z.-Z.} \bibnamefont{{Xing}}},
+  \bibinfo{journal}{International Journal of Modern Physics A}
+  \textbf{\bibinfo{volume}{23}}, \bibinfo{pages}{4255} (\bibinfo{year}{2008}),
+  \eprint{0810.1421}.
+
+\bibitem[{\citenamefont{{Binney} and {Tremaine}}(2008)}]{Binney:2008}
+\bibinfo{author}{\bibfnamefont{J.}~\bibnamefont{{Binney}}} \bibnamefont{and}
+  \bibinfo{author}{\bibfnamefont{S.}~\bibnamefont{{Tremaine}}},
+  \emph{\bibinfo{title}{{Galactic Dynamics: Second Edition}}}
+  (\bibinfo{publisher}{Princeton University Press}, \bibinfo{year}{2008}).
+
+\bibitem[{\citenamefont{{LSST Science Collaboration}
+  et~al.}(2009)\citenamefont{{LSST Science Collaboration}, {Abell}, {Allison},
+  {Anderson}, {Andrew}, {Angel}, {Armus}, {Arnett}, {Asztalos}, {Axelrod}
+  et~al.}}]{Abell:2009}
+\bibinfo{author}{\bibnamefont{{LSST Science Collaboration}}},
+  \bibinfo{author}{\bibfnamefont{P.~A.} \bibnamefont{{Abell}}},
+  \bibinfo{author}{\bibfnamefont{J.}~\bibnamefont{{Allison}}},
+  \bibinfo{author}{\bibfnamefont{S.~F.} \bibnamefont{{Anderson}}},
+  \bibinfo{author}{\bibfnamefont{J.~R.} \bibnamefont{{Andrew}}},
+  \bibinfo{author}{\bibfnamefont{J.~R.~P.} \bibnamefont{{Angel}}},
+  \bibinfo{author}{\bibfnamefont{L.}~\bibnamefont{{Armus}}},
+  \bibinfo{author}{\bibfnamefont{D.}~\bibnamefont{{Arnett}}},
+  \bibinfo{author}{\bibfnamefont{S.~J.} \bibnamefont{{Asztalos}}},
+  \bibinfo{author}{\bibfnamefont{T.~S.} \bibnamefont{{Axelrod}}},
+  \bibnamefont{et~al.}, \bibinfo{journal}{ArXiv e-prints}
+  (\bibinfo{year}{2009}), \eprint{0912.0201}.
+
+\bibitem[{\citenamefont{{Laureijs} et~al.}(2011)\citenamefont{{Laureijs},
+  {Amiaux}, {Arduini}, {Augu{\`e}res}, {Brinchmann}, {Cole}, {Cropper},
+  {Dabin}, {Duvet}, {Ealet} et~al.}}]{Laureijs:2011}
+\bibinfo{author}{\bibfnamefont{R.}~\bibnamefont{{Laureijs}}},
+  \bibinfo{author}{\bibfnamefont{J.}~\bibnamefont{{Amiaux}}},
+  \bibinfo{author}{\bibfnamefont{S.}~\bibnamefont{{Arduini}}},
+  \bibinfo{author}{\bibfnamefont{J.~.} \bibnamefont{{Augu{\`e}res}}},
+  \bibinfo{author}{\bibfnamefont{J.}~\bibnamefont{{Brinchmann}}},
+  \bibinfo{author}{\bibfnamefont{R.}~\bibnamefont{{Cole}}},
+  \bibinfo{author}{\bibfnamefont{M.}~\bibnamefont{{Cropper}}},
+  \bibinfo{author}{\bibfnamefont{C.}~\bibnamefont{{Dabin}}},
+  \bibinfo{author}{\bibfnamefont{L.}~\bibnamefont{{Duvet}}},
+  \bibinfo{author}{\bibfnamefont{A.}~\bibnamefont{{Ealet}}},
+  \bibnamefont{et~al.}, \bibinfo{journal}{ArXiv e-prints}
+  (\bibinfo{year}{2011}), \eprint{1110.3193}.
+
+\bibitem[{\citenamefont{{Amendola} et~al.}(2013)\citenamefont{{Amendola},
+  {Appleby}, {Bacon}, {Baker}, {Baldi}, {Bartolo}, {Blanchard}, {Bonvin},
+  {Borgani}, {Branchini} et~al.}}]{Amendola:2012}
+\bibinfo{author}{\bibfnamefont{L.}~\bibnamefont{{Amendola}}},
+  \bibinfo{author}{\bibfnamefont{S.}~\bibnamefont{{Appleby}}},
+  \bibinfo{author}{\bibfnamefont{D.}~\bibnamefont{{Bacon}}},
+  \bibinfo{author}{\bibfnamefont{T.}~\bibnamefont{{Baker}}},
+  \bibinfo{author}{\bibfnamefont{M.}~\bibnamefont{{Baldi}}},
+  \bibinfo{author}{\bibfnamefont{N.}~\bibnamefont{{Bartolo}}},
+  \bibinfo{author}{\bibfnamefont{A.}~\bibnamefont{{Blanchard}}},
+  \bibinfo{author}{\bibfnamefont{C.}~\bibnamefont{{Bonvin}}},
+  \bibinfo{author}{\bibfnamefont{S.}~\bibnamefont{{Borgani}}},
+  \bibinfo{author}{\bibfnamefont{E.}~\bibnamefont{{Branchini}}},
+  \bibnamefont{et~al.}, \bibinfo{journal}{Living Reviews in Relativity}
+  \textbf{\bibinfo{volume}{16}}, \bibinfo{pages}{6} (\bibinfo{year}{2013}),
+  \eprint{1206.1225}.
+
+\bibitem[{\citenamefont{{Anchordoqui} et~al.}(2013)\citenamefont{{Anchordoqui},
+  {Goldberg}, and {Steigman}}}]{2013PhLB..718.1162A}
+\bibinfo{author}{\bibfnamefont{L.~A.} \bibnamefont{{Anchordoqui}}},
+  \bibinfo{author}{\bibfnamefont{H.}~\bibnamefont{{Goldberg}}},
+  \bibnamefont{and}
+  \bibinfo{author}{\bibfnamefont{G.}~\bibnamefont{{Steigman}}},
+  \bibinfo{journal}{Physics Letters B} \textbf{\bibinfo{volume}{718}},
+  \bibinfo{pages}{1162} (\bibinfo{year}{2013}), \eprint{1211.0186}.
+
+\bibitem[{\citenamefont{{Blas} et~al.}(2011)\citenamefont{{Blas},
+  {Lesgourgues}, and {Tram}}}]{ClassCode}
+\bibinfo{author}{\bibfnamefont{D.}~\bibnamefont{{Blas}}},
+  \bibinfo{author}{\bibfnamefont{J.}~\bibnamefont{{Lesgourgues}}},
+  \bibnamefont{and} \bibinfo{author}{\bibfnamefont{T.}~\bibnamefont{{Tram}}},
+  \bibinfo{journal}{\jcap} \textbf{\bibinfo{volume}{7}}, \bibinfo{eid}{034}
+  (\bibinfo{year}{2011}), \eprint{1104.2933}.
+
+\bibitem[{\citenamefont{{Masui} and {Pen}}(2010)}]{KiyoUeLi}
+\bibinfo{author}{\bibfnamefont{K.~W.} \bibnamefont{{Masui}}} \bibnamefont{and}
+  \bibinfo{author}{\bibfnamefont{U.-L.} \bibnamefont{{Pen}}},
+  \bibinfo{journal}{Physical Review Letters} \textbf{\bibinfo{volume}{105}},
+  \bibinfo{eid}{161302} (\bibinfo{year}{2010}), \eprint{1006.4181}.
+
+\end{thebibliography}
