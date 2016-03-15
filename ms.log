@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=latex 2015.10.19)  13 MAR 2016 20:57
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=latex 2015.10.19)  15 MAR 2016 19:52
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -218,11 +218,11 @@ LaTeX Font Info:    ... okay on input line 39.
 Class revtex4 Info: Patching array package. on input line 39.
 Class revtex4 Info: cite was not loaded (OK!) on input line 39.
 Class revtex4 Info: multicol was not loaded (OK!) on input line 39.
-LaTeX Font Info:    Try loading font information for U+msa on input line 82.
+LaTeX Font Info:    Try loading font information for U+msa on input line 75.
  (/usr/local/texlive/2015/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 82.
+LaTeX Font Info:    Try loading font information for U+msb on input line 75.
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
@@ -244,7 +244,7 @@ Overfull \hbox (4.8013pt too wide) in alignment at lines 252--259
 
 File: fig_3.eps Graphic file (type eps)
 <fig_3.eps> [3]
-Underfull \hbox (badness 10000) in paragraph at lines 433--460
+Underfull \hbox (badness 10000) in paragraph at lines 431--458
 [] \OT1/cmr/m/n/10 ^^A[]\OML/cmm/m/it/10 ^^R[]^^R[]=k[]dk=[]$\OT1/cmr/m/n/10 ,
  []
 
@@ -252,7 +252,7 @@ File: fig_4.eps Graphic file (type eps)
 <fig_4.eps> [4]
 
 LaTeX Warning: A float is stuck (cannot be placed); try class option [floatfix]
- on input line 574.
+ on input line 571.
 
 (./ms.bbl
 Underfull \hbox (badness 1270) in paragraph at lines 165--178
@@ -263,10 +263,10 @@ Underfull \hbox (badness 1270) in paragraph at lines 165--178
 Here is how much of TeX's memory you used:
  3504 strings out of 493090
  43259 string characters out of 6134867
- 131709 words of memory out of 5000000
+ 131918 words of memory out of 5000000
  6937 multiletter control sequences out of 15000+600000
  17156 words of font info for 63 fonts, out of 8000000 for 9000
  1144 hyphenation exceptions out of 8191
  29i,10n,26p,386b,348s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on ms.dvi (5 pages, 41492 bytes).
+Output written on ms.dvi (5 pages, 41632 bytes).

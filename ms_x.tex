@@ -46,7 +46,6 @@
 
 \author{Hong-Ming Zhu} 
 \affiliation{Key Laboratory for Computational Astrophysics,  National Astronomical Observatories, Chinese Academy of Sciences, 20A Datun Road, Beijing 100012, China}
-\affiliation{University of Chinese Academy of Science, Beijing 100049, China}
 
 \author{Ue-Li Pen} 
 \affiliation{Canadian Institute for Theoretical Astrophysics, 60 St. George Street, Toronto, Ontario M5S 3H8, Canada}
@@ -55,7 +54,6 @@ Toronto, Ontario M5G 1Z8, Canada}
 
 \author{Xuelei Chen}
 \affiliation{Key Laboratory for Computational Astrophysics,  National Astronomical Observatories, Chinese Academy of Sciences, 20A Datun Road, Beijing 100012, China}
-\affiliation{University of Chinese Academy of Science, Beijing 100049, China}
 \affiliation{Center of High Energy Physics, Peking University, Beijing 100871, China}
 
 \author{Derek Inman} 
@@ -68,12 +66,14 @@ downstream of the dark matter halos.  We propose a method of
 measuring the neutrino mass based on this mechanism.  
 This neutrino wake will cause a dipole distortion of the galaxy-galaxy
 lensing pattern.  This effect could be detected by combining upcoming lensing 
-surveys with a low redshift galaxy survey or 
+surveys
+%, e.g. the LSST and Euclid surveys 
+with a low redshift galaxy survey or 
 a 21cm intensity mapping survey which can map the neutrino flow 
 field.  The data obtained with LSST and Euclid 
 should enable us to make positive detection if the three
-neutrino masses are quasi-degenerate with each neutrino mass of $\sim$ 0.1 eV, 
-and a future high precision 21cm lensing survey would allow the normal hierarchy and inverted 
+neutrino masses are quasi-degenerate, and a future high precision 
+21cm lensing survey would allow the normal hierarchy and inverted 
 hierarchy cases to be distinguished, 
 and even the right-handed Dirac neutrinos may be detectable.
 \end{abstract}
@@ -339,7 +339,10 @@ Thus we can multiply the response density by $\bar{n} V$, or
 in more sophisticated treatment calculate the integrated response using the 
 Press-Schechter model.
 
-
+%This procedure is complicated by the fact that along each l.o.s., in
+%the lensing effective length, there are on average $D_{\rm eff}/L$
+%coherent relative velocity volumes, where $D_{\rm eff}$ is the effective
+%comoving length over which the lensing effect is significant. 
 There are several coherent velocity volumes along the l.o.s., and 
 each of these contributes to the dipole term, but the dipole directions are
 randomly oriented with
@@ -354,11 +357,10 @@ each velocity coherent volume will now add incoherently, resulting that
 $\kappa_1$ grows as $\kappa_1\approx\kappa_{1s}\bar{n}V\sqrt{\chi_\mr{eff}/L}$,
 where
 $\kappa_{1s}$ was the single halo contribution shown in Fig. \ref{fig:kappa}. For our simple estimate,
-we define $\chi_\mr{eff}$ as the comoving length along our l.o.s. where the lensing
+we define $D_\mr{eff}$ as the comoving length along our l.o.s. where the lensing
 weight $\omega(\chi)$ is larger than half of its maximum
-value. For the fiducial case here, $\chi_\mr{eff}=2093.4$Mpc$/h$. 
-Considering the redshift dependence of $\kappa_{1s}$ gives result about 15\% 
-smaller than this simple estimate.
+value. For the fiducial case here, $\chi_\mr{eff}=2093.4$Mpc$/h$. The result of a full
+numerical integration gives result about 15\% smaller than this simple estimate.
 
 
 
@@ -505,7 +507,8 @@ Here for simple estimates we will neglect the overlap between
 these two surveys and assume that they provide independent data set. 
 By combining these data, we can reach a precision of
 $\sigma_{\kappa_1}=5.2\times10^{-6}/\sqrt{2}=3.68\times10^{-6}$.
-
+%Except for the minimal mass case ($m_{\nu} \sim 0.05
+%\eV$), it will allow determination of the neutrino mass and hierachy.
 
 Ultimately, extremely high precision measurements can be achieved with
 21cm lensing observations such as the one proposed in \cite{KiyoUeLi}.
